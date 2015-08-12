@@ -1,1 +1,3 @@
 the line one
+the line two of foo
+the line two of master
